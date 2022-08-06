@@ -1,0 +1,45 @@
+h1{
+
+    font-family: 'Courier New', Courier, monospace , Arial, Helvetica, sans-serif, sans-serif;
+}
+.container{
+    border: 3px solid red;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+}
+p{
+    color: black;
+    font-size: 20px;
+}
+.btn{
+    border: none;
+    background-color: green;
+    font-weight: 400;
+    color: white;
+    height: 50px;
+    width: 100px;
+    border-radius: 15px;
+}
+#bp1 , #bp2, #bp3, #bp4, #bp5, #bp6{
+    font-style: italic;
+    font-size: 40px;
+}
+#bp1{
+    color: chocolate;
+}
+#bp2{
+    color: red;
+}
+#bp3{
+    color: blueviolet;
+}
+#bp4{
+    color: skyblue;
+}
+#bp5{
+    color: pink;
+}
+#bp6{
+    color: violet;
+}
